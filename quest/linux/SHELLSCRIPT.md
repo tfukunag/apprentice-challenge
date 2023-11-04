@@ -8,7 +8,7 @@
 
 ### シェルスクリプト例
 
-![出力例](SHELLSCRIPT01.jpg)
+![出力例](shellscript01.jpg)
 
 
 ## 2. 標準入力から値を受け取る
@@ -17,7 +17,7 @@
 
 ### シェルスクリプト例
 
-![出力例](SHELLSCRIPT02.jpg)
+![出力例](shellscript02.jpg)
 
 
 ## 3. 条件分岐
@@ -37,7 +37,7 @@ The result:21
 
 ### シェルスクリプト例
 
-![出力例](SHELLSCRIPT03.jpg)
+![出力例](shellscript03.jpg)
 
 ## 4. 繰り返し処理
 
@@ -48,4 +48,4 @@ for 文 または while 文を利用して、1~100までのうち、偶数の数
 ```
 ### シェルスクリプト例
 
-![出力例](SHELLSCRIPT04.jpg)
+![出力例](shellscript04.jpg)
