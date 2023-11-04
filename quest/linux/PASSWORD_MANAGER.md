@@ -31,7 +31,7 @@ Thank you!
 
 ### シェルスクリプト例
 
-![出力例](PASSWORD_MANAGER01.jpg)
+![出力例](img/PASSWORD_MANAGER01.jpg)
 
 ## ステップ2
 
@@ -95,8 +95,8 @@ Thank you!
 ```
 ### シェルスクリプト例
 
-![出力例](PASSWORD_MANAGER02p1.jpg)
-![出力例](PASSWORD_MANAGER02p2.jpg)
+![出力例](img/PASSWORD_MANAGER02p1.jpg)
+![出力例](img/PASSWORD_MANAGER02p2.jpg)
 
 ## ステップ3(任意)
 

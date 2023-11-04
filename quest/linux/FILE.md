@@ -8,7 +8,7 @@
 `cat /etc/hosts`
 
 ### 出力結果
-![出力例](FILE_01.jpg)
+![出力例](img/FILE_01.jpg)
  
 
 
@@ -66,7 +66,7 @@
 
 ### 出力例
 
-![出力例](FILE_08.jpg)
+![出力例](img/FILE_08.jpg)
 
 ## 9. 検索
 
@@ -83,5 +83,5 @@ lemon
 
 ### 出力例
 
-![出力例](FILE_09.jpg)
+![出力例](img/FILE_09.jpg)
 
