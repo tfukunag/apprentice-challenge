@@ -10,7 +10,7 @@
 `ls -l README.md`
 
 ### 出力例
-![出力例](img/PERMISSION01.jpg)
+![出力例](img/permission01.jpg)
 
 ### 答え
 オーナー、グループとも tfukunag
@@ -53,7 +53,7 @@ permission ディレクトリのグループに対して、書き込み権限を
 `ls -l`
 
 ### 出力例
-![出力例](img/PERMISSION05.jpg)
+![出力例](img/permission05.jpg)
 
 ### 答え
 オーナーはroot
