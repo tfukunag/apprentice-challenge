@@ -1,0 +1,6 @@
+a1 : taro : passwd
+a2 : hanako : passwd2
+a3 : takuya :passwd3
+a4 : hiroko : passwd4
+a5 : rina : passwd5
+a6 : tetsuya :passwd6
